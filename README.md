@@ -1,4 +1,4 @@
-# awesome-web3-automation-tools
+# ✨ awesome-web3-automation-tools ✨
 A curated list of tools, libraries, workflows, and use cases for automating Web3 and crypto tasks — from wallet triggers to DAO workflows.
 
 | Platform | Description | Status | Wallet Triggers | Smart Contract Triggers | Gas Fee Triggers | Discord Actions | Email Actions | No-Code Flow Builder | Developer SDK/API | Pricing Info |
